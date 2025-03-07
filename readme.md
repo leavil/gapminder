@@ -1,5 +1,4 @@
-# 📊 Análisis Exploratorio de Datos (EDA) - GapMinder y Calidad del Aire en Barcelona  
-
+# 📊 Análisis Exploratorio de Datos (EDA) - GapMinder
 ## 🔍 Objetivo  
 El objetivo de este proyecto es realizar un análisis exploratorio de datos (**EDA**) sobre el conjunto de datos de **GapMinder** y, si procede, sobre los datos de calidad del aire en **Barcelona**. Se aplicarán técnicas de **preprocesamiento, normalización y visualización** para comprender mejor las tendencias y relaciones entre las variables.  
 
@@ -20,11 +19,6 @@ El objetivo de este proyecto es realizar un análisis exploratorio de datos (**E
 - Aplicar **PCA (Análisis de Componentes Principales)** para visualizar la información en menos dimensiones.  
 - Generar **pairplots** antes y después del escalado para observar cómo afectan las transformaciones.  
 
-### 4️⃣ **Análisis de los Datos de Calidad del Aire en Barcelona**  
-- Si ya se dispone de datos de calidad del aire, aplicar la misma metodología:  
-  - Carga y exploración inicial  
-  - Normalización y escalado  
-  - Visualización con PCA y pairplots  
 
 ## 📌 Librerías Utilizadas  
 - `pandas` para la gestión de datos  
